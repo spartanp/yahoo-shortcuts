@@ -1,0 +1,13 @@
+{
+  "name": "Yahoo! Homepage Keyboard Shortcuts",
+  "version": "1.0",
+  "description": "Keyboard shortcuts to navigate on Yahoo! Homepage",
+  
+  "background_page": "bg.html",
+  "content_scripts": [
+      {
+        "matches": ["http://*.yahoo.com/*", "https://*.yahoo.com/*"],
+        "js": ["js/inject.js"]
+      }
+    ]
+}
