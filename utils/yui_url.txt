@@ -1,0 +1,2 @@
+<!-- JS -->
+<script type="text/javascript" src="http://yui.yahooapis.com/combo?3.3.0/build/yui/yui-debug.js&3.3.0/build/oop/oop-debug.js&3.3.0/build/event-custom/event-custom-base-debug.js&3.3.0/build/dom/dom-base-debug.js&3.3.0/build/dom/selector-native-debug.js&3.3.0/build/dom/selector-css2-debug.js&3.3.0/build/event-custom/event-custom-complex-debug.js&3.3.0/build/event/event-debug.js&3.3.0/build/event-simulate/event-simulate-debug.js&3.3.0/build/node/node-base-debug.js&3.3.0/build/event/event-base-ie-debug.js"></script>
