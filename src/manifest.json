@@ -7,7 +7,7 @@
   "content_scripts": [
       {
         "matches": ["http://*.yahoo.com/*", "https://*.yahoo.com/*"],
-        "js": ["js/inject.js"]
+        "js": ["js/yui.js", "js/inject.js"]
       }
     ]
 }
